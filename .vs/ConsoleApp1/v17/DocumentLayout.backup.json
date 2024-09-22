@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{832C6A18-C10C-435D-8844-51ACC99BF881}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\consoleapp1\\consoleapp1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C6A18-C10C-435D-8844-51ACC99BF881}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C6A18-C10C-435D-8844-51ACC99BF881}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C6A18-C10C-435D-8844-51ACC99BF881}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{832C6A18-C10C-435D-8844-51ACC99BF881}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\kzeyn.desktop-nmnfvkm\\source\\repos\\consoleapp1\\consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{832C6A18-C10C-435D-8844-51ACC99BF881}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Worker.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Worker.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Worker.cs",
+              "RelativeToolTip": "ConsoleApp1\\Worker.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:38:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Company.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Company.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Company.cs",
+              "RelativeToolTip": "ConsoleApp1\\Company.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T11:36:26.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\kzeyn.DESKTOP-NMNFVKM\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T08:36:38.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
