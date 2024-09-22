@@ -35,5 +35,10 @@ namespace ConsoleApp1
                 }
             }
         }
+
+        public Worker(string name)
+        {
+            Name = name;
+        }
     }
 }
